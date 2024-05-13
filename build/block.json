@@ -5,8 +5,7 @@
   "version": "0.1.0",
   "title": "Jk Post Carousel Block",
   "category": "widgets",
-  "icon": "smiley",
-  "description": "Example block scaffolded with Create Block tool.",
+  "description": "Displays a carousel of posts",
   "example": {},
   "supports": {
     "html": false

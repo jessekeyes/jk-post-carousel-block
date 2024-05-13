@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Jk Post Carousel Block
- * Description:       Example block scaffolded with Create Block tool.
+ * Description:       Gutenberg Carousel block that displays nine posts 
  * Requires at least: 6.1
  * Requires PHP:      7.0
  * Version:           0.1.0

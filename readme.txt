@@ -1,19 +1,19 @@
 === Jk Post Carousel Block ===
-Contributors:      The WordPress Contributors
+Contributors:      Jesse Keyes
 Tags:              block
 Tested up to:      6.1
 Stable tag:        0.1.0
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-Example block scaffolded with Create Block tool.
+Gutenberg Carousel block that displays nine posts
 
 == Description ==
 
-This is the long description. No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+Build a "Carousel of Posts" block for WordPress' Gutenberg Editor. On the front-end this block should display a carousel
+of posts. There should be a total of 9 posts, with 3 visible at a time and next + back buttons. Each post should display a
+featured image, title, and date. In the block options, please add the ability to filter posts by category and set the total
+quantity of posts.
 
 == Installation ==
 
